@@ -1,0 +1,8 @@
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\WizardNinjaSamurai\bin\Debug\netcoreapp1.1\WizardNinjaSamurai.deps.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\WizardNinjaSamurai\bin\Debug\netcoreapp1.1\WizardNinjaSamurai.runtimeconfig.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\WizardNinjaSamurai\bin\Debug\netcoreapp1.1\WizardNinjaSamurai.runtimeconfig.dev.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\WizardNinjaSamurai\bin\Debug\netcoreapp1.1\WizardNinjaSamurai.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\WizardNinjaSamurai\bin\Debug\netcoreapp1.1\WizardNinjaSamurai.pdb
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\WizardNinjaSamurai\obj\Debug\netcoreapp1.1\WizardNinjaSamurai.AssemblyInfo.cs
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\WizardNinjaSamurai\obj\Debug\netcoreapp1.1\WizardNinjaSamurai.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\WizardNinjaSamurai\obj\Debug\netcoreapp1.1\WizardNinjaSamurai.pdb
